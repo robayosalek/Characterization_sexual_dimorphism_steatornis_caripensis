@@ -1,7 +1,7 @@
 # Characterization_sexual_dimorphism_steatornis_caripensis
 In this repository you will find the R's codes implemented in a biology bachelor's thesis. I put this repository public since the science must be open and collaborative, I hope this can be usefull for you. 
 
-Note: some lines of code shows the paths where the information were located, remember those are my paths so you have to put yours.
+Note: some lines of code show the paths where the information were located, remember those are my paths so you have to put yours.
 
 
 A summary of the project:
